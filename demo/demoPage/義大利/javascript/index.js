@@ -104,6 +104,91 @@ var data = {
         },
         
     ],
+    'milan':[
+        {
+            link: "images/information/milan0.webp",
+            title: "米蘭大教堂",
+            data: "07/02/2016",
+        },
+        {
+            link: "images/information/milan1.jpg",
+            title: "布雷拉圖書館",
+            data: "07/02/2016",
+        },
+        {
+            link: "images/information/milan2.jpg",
+            title: "艾曼紐二世迴廊",
+            data: "07/02/2016",
+        },
+        {
+            link: "images/information/milan3.jpg",
+            title: "斯福爾扎古堡",
+            data: "07/02/2016",
+        },
+        {
+            link: "images/information/milan4.jpg",
+            title: "斯卡拉大劇院",
+            data: "07/02/2016",
+        },
+        {
+            link: "images/information/milan5.jpg",
+            title: "齊亞拉瓦萊修道院",
+            data: "07/02/2016",
+        },
+        {
+            link: "images/information/milan6.jpg",
+            title: "國立蒙札賽車場",
+            data: "07/02/2016",
+        },
+        {
+            link: "images/information/milan7.jpg",
+            title: "Rinascente",
+            data: "07/02/2016",
+        },
+    ],
+    'amalfi':[
+        {
+            link: "images/information/amalfi0.jpg",
+            title: "阿瑪菲海岸",
+            data: "04/10/2018",
+        },
+        {
+            link: "images/information/amalfi1.jpg",
+            title: "阿瑪菲主教座堂",
+            data: "12/10/2017",
+        },
+        {
+            link: "images/information/amalfi2.jpg",
+            title: "紙博物館",
+            data: "05/10/2013",
+        },
+        {
+            link: "images/information/amalfi3.jpg",
+            title: "美食",
+            data: "02/10/2017",
+
+        },
+        {
+            link: "images/information/amalfi4.webp",
+            title: "祖母綠洞",
+            data: "01/15/2018",
+        },
+        {
+            link: "images/information/amalfi5.jpg",
+            title: "蘇連多碼頭",
+            data: "03/10/2018",
+        },
+        {
+            link: "images/information/amalfi6.webp",
+            title: "龐貝考古公園",
+            data: "08/10/2019",
+        },
+        {
+            link: "images/information/amalfi7.jpg",
+            title: "赫庫蘭尼姆古城",
+            data: "08/10/2018",
+        },
+    ],
     'venice':[
         {
             link: "images/information/venice0.jpg",
@@ -147,48 +232,6 @@ var data = {
             data: "08/10/2018",
         },
     ],
-    'milan':[
-        {
-            link: "images/information/milan0.webp",
-            title: "米蘭大教堂",
-            data: "07/02/2016",
-        },
-        {
-            link: "images/information/milan1.jpg",
-            title: "布雷拉圖書館",
-            data: "07/02/2016",
-        },
-        {
-            link: "images/information/milan2.jpg",
-            title: "艾曼紐二世迴廊",
-            data: "07/02/2016",
-        },
-        {
-            link: "images/information/milan3.jpg",
-            title: "斯福爾扎古堡",
-            data: "07/02/2016",
-        },
-        {
-            link: "images/information/milan4.jpg",
-            title: "斯卡拉大劇院",
-            data: "07/02/2016",
-        },
-        {
-            link: "images/information/milan5.jpg",
-            title: "齊亞拉瓦萊修道院",
-            data: "07/02/2016",
-        },
-        {
-            link: "images/information/milan6.jpg",
-            title: "國立蒙札賽車場",
-            data: "07/02/2016",
-        },
-        {
-            link: "images/information/milan7.jpg",
-            title: "Rinascente",
-            data: "07/02/2016",
-        },
-    ]
 }
 var liShow = document.querySelectorAll(".travel .item li")
 var itemGroup = document.querySelector(".travel .itemGroup")
