@@ -189,45 +189,45 @@ var data = {
             data: "08/10/2018",
         },
     ],
-    'venice':[
+    'venezia':[
         {
-            link: "images/information/venice0.jpg",
+            link: "images/information/venezia0.jpg",
             title: "嘆息橋",
             data: "04/10/2017",
         },
         {
-            link: "images/information/venice1.jpg",
+            link: "images/information/venezia1.jpg",
             title: "鳯尾船",
             data: "02/10/2017",
         },
         {
-            link: "images/information/venice2.jpg",
+            link: "images/information/venezia2.jpg",
             title: "道奇宮",
             data: "05/10/2018",
         },
         {
-            link: "images/information/venice3.jpg",
+            link: "images/information/venezia3.jpg",
             title: "彩色島",
             data: "02/10/2017",
 
         },
         {
-            link: "images/information/venice4.jpg",
+            link: "images/information/venezia4.jpg",
             title: "彩色島",
             data: "01/10/2018",
         },
         {
-            link: "images/information/venice5.jpg",
+            link: "images/information/venezia5.jpg",
             title: "威尼斯",
             data: "03/10/2018",
         },
         {
-            link: "images/information/venice6.png",
+            link: "images/information/venezia6.png",
             title: "彩色島",
             data: "08/10/2019",
         },
         {
-            link: "images/information/venice7.jpg",
+            link: "images/information/venezia7.jpg",
             title: "聖馬可廣場",
             data: "08/10/2018",
         },

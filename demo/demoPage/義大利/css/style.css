@@ -187,3 +187,23 @@ header .mainMenu li {
 .travel .itemGroup p {
     color: #555;
 }
+
+
+
+.hotel .container {
+    max-width: 100%;
+    padding: 0;
+    position: relative;
+}
+.hotel img {
+    width: 100%;
+    
+}
+.hotel .txt {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.hotel span {
+    font-size: 50px;
+}
