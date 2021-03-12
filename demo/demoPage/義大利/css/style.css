@@ -11,7 +11,7 @@
 .container {
     max-width: 1200px;
     width: 100%;
-    margin: 0 auto 50px;
+    margin: 0 auto 80px;
     padding: 0 15px;
     background-color: #fff;
 }
@@ -55,17 +55,15 @@ header .mainMenu li {
 
 
 .travel {
-    background: linear-gradient(0deg, #cbf, #fff);
+    /* background: linear-gradient(0deg, #cbf, #fff); */
 }
 .travel .container{
-    /* outline: 1px solid #000; */
-    /*background-color: #fa0;*/
     background-color: transparent;
 }
 
 .travel .title {
     display: block;
-    margin: -85px 0 50px;
+    margin: -105px 0 50px;
 }
 .travel .title span{
     padding: 20px 30px 0 20px;
@@ -151,10 +149,6 @@ header .mainMenu li {
     color: #00a;
     transition: 1s;
 }
-
-
-
-
 .travel .item li h2 {
     color: #333;
     text-align: center;
@@ -162,6 +156,7 @@ header .mainMenu li {
 }
 .travel img {
     width: 100%;
+    vertical-align: middle;
 }
 .travel .itemGroup {
     display: flex;
@@ -170,13 +165,14 @@ header .mainMenu li {
 }
 .travel .list {
     width: 23%;
-    /* padding: 20px; */
     margin-bottom: 25px;
+}
+.travel .itemGroup .pic {
+    margin-bottom: 15px;
 }
 .travel .itemGroup img {
     width: 100%;
     border-radius: 10px;
-    margin-bottom: 15px;
     box-shadow: 1px 1px 10px #000;
 }
 .travel .itemGroup h3 {
@@ -189,15 +185,33 @@ header .mainMenu li {
 }
 
 
-
+.hotel {
+    
+}
 .hotel .container {
     max-width: 100%;
     padding: 0;
     position: relative;
+    max-height: 600px;
+    height: 100%;
+    overflow: hidden;
+    outline: 1px solid #000;
+}
+.hotel .txt {
+    text-align: center;
+}
+.hotel .txt span {
+    color: #fff;
+    display: block;
+}
+.hotel .txt span:first-child {
+    font-weight: 900;
+}
+.hotel .pic {
+    /* text-align: right; */
 }
 .hotel img {
     width: 100%;
-    
 }
 .hotel .txt {
     position: absolute;
