@@ -15,7 +15,7 @@ window.onload=function(){
     var data = {
         'rome':[
             {
-                link: "images/information/rome.jpg",
+                link: "images/information/rome0.jpg",
                 title: "羅馬競技場",
                 data: "04/10/2017",
             },
